@@ -27,7 +27,7 @@ header img:hover {
 }
 
 .navbar .navbar-nav {
-  background-color: rgb(69, 38, 38);
+  background-color: rgba(13, 61, 79, 0.718);
   width: 100%;
   border: solid 2px rgb(105, 93, 93);
   justify-content: end;
@@ -41,7 +41,7 @@ header img:hover {
   position: unset;
 }
 .buscar .btn {
-  background-color: rgba(198, 198, 209, 0.214);
+  background-color: rgb(7, 158, 156);
 }
 
 .layout {
@@ -148,7 +148,6 @@ section img:hover {
   display: flex;
   gap: 10px;
   text-align: center;
-  border: solid 2px blue;
 }
 .footer a {
   width: 100px;
@@ -159,7 +158,6 @@ section img:hover {
 .info {
   width: 80%;
   height: 100%;
-  background: #a5bcbe;
 }
 .info img {
   width: 500px;
